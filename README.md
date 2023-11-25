@@ -1,115 +1,60 @@
-# indriver_clone
-Oyelabs have best indriver clone with delivery feature
-
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simcoder_here)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simcoder_here/)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/simcoder)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SimCoderYoutube/UberClone">
-    <img src="images/simcoder.png" alt="Logo" width="120" height="120">
+  <a href="https://oyelabs.com/indriver-clone-app-development/">
+    <img src="https://oyelabs.com/wp-content/uploads/2023/05/indriver.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Uber Clone</h3>
+  <h3 align="center">Launch InDriver Clone</h3>
 
   <p align="center">
-    A Uber clone app made with android native (java) and firebase
+    A InDriver clone app made with android native (java) and firebase
     <br />
-    <a href="https://github.com/SimCoderYoutube/UberClone/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/oyeclones/indriver_clone/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SimCoderYoutube/UberClone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SimCoderYoutube/UberClone/issues">Request Feature</a>
+    <a href="https://github.com/oyeclones/indriver_clone/issues">Request Feature</a>
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#support">Support</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+# Launching Your InDriver Clone: A Comprehensive Guide
 
-<!-- ABOUT THE PROJECT -->
+Are you ready to step into the ride-hailing industry? Launching your InDriver Clone is a promising venture, and we've got the perfect guide for you. Let's explore the essential steps and highlight the key features of your InDriver Clone app.
 
-## ℹ️ About The Project
+## **1. Understanding the InDriver Clone App**
 
-![alt text](images/mockup.png "Title")
+Begin by grasping the fundamentals of your InDriver Clone app. Learn about its unique features that set it apart from traditional ride-hailing apps.
 
-This repo contains the project made in my youtube chanel called simcoder. This project is a clone of the Uber android app.
+## **2. Building Your Product Feature List**
 
-It is made using android native with java and some firebase services (authentication, real time database and storage).
+### Key Features:
 
-In the [master](https://github.com/SimCoderYoutube/UberClone/tree/master) branch you have the redesign project which I was previously selling in my website, however you still have access to the youtube series repo in the [youtube_series](https://github.com/SimCoderYoutube/UberClone/tree/youtube_series)
+1. **Taxi Bidding Functionality**: Allow users to negotiate fares directly with drivers, providing a personalized experience[[1](https://oyelabs.com/indriver-clone-app-development/)].
+2. **Parcel Delivery Integration**: Seamlessly integrate parcel delivery services to offer a comprehensive transportation solution.
+3. **Customization Options**: Ensure 100% customization of the app, making it ready-to-launch with essential features.
+4. **Multi-Category Vehicles**: Provide users with options, including different vehicle categories for diverse transportation needs.
+5. **Multi-Delivery Support**: Enhance user experience with the ability to handle multiple deliveries.
 
-You can follow the youtube series in the following [link](https://www.youtube.com/watch?v=7HbQx0lwRww&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd&ab_channel=SimCoder)
+## **3. Creating a Compelling Blog**
 
-## 🆕 Getting Started
+Craft a blog that outlines the journey of launching your InDriver Clone. Include engaging content on how your app stands out and its unique value propositions. Don't forget to showcase the product feature list to attract potential users.
 
-- ### **Prerequisites**
+## **4. Utilizing Industry Insights**
 
-  - [Android Studio](https://developer.android.com/)
-  - [Firebase](https://firebase.google.com/)
+Refer to industry insights and success stories to strengthen your blog. Highlight the efficiency and cost-effectiveness of using an InDriver Clone app.
 
-<!-- GETTING STARTED -->
+## **5. Providing Demo and Trial Options**
 
-- ### **Installation**
+Encourage potential users to explore your InDriver Clone through live demos and trial versions. This hands-on experience can significantly impact their decision to choose your app.
 
-  In order to deploy the project you'll need to follow the [wiki page](https://github.com/SimCoderYoutube/UberClone/wiki/Setup-your-project) dedicated to this effect.
+Launching your InDriver Clone is an exciting journey. Use this guide to navigate through the process, and soon, you'll be making waves in the ride-hailing industry.
 
-## 🚧 Roadmap
+## 🌐 Sources
 
-See the [open issues](https://github.com/SimCoderYoutube/UberClone/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
-## ➕ Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please check the [Wiki](https://github.com/SimCoderYoutube/UberClone/wiki/How-to-Contribute)
-
-## 🌟 Show your support
-
-Give a ⭐️ if this project helped you!
-
-And don't forget to subscribe to the [youtube chanel](https://www.youtube.com/c/SimpleCoder?sub_confirmation=1)
-
-## 📝 License
-
-Copyright © 2021 [SimCoder](https://github.com/simcoderYoutube).
-
-This project is [MIT](https://github.com/SimCoderYoutube/UberClone/blob/master/LICENSE) licensed. Some of the dependencies are licensed differently.
-
-<!-- CONTACT -->
-
-## 👤 Contact
-
-**SimCoder**
-
-- Website: www.simcoder.com
-- Twitter: [@simcoder_here](https://twitter.com/simcoder_here)
-- Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
-- Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+1. [Oyelabs.com - InDriver Clone | Launch Your Own Taxi Bidding App](https://oyelabs.com/indriver-clone-app-development/)
